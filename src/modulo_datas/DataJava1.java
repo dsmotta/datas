@@ -6,7 +6,7 @@ public class DataJava1 {
 	
 	public static void main(String[] args) {
 		
-		/*Usando o objeto Date*/
+		/* Usando o objeto Date */
 		
 		Date date = new Date();
 		
